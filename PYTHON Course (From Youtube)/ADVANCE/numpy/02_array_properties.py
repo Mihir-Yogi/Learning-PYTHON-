@@ -6,5 +6,5 @@ arr1 = np.array([
 
 print(arr1.shape)
 print(arr1.size)
-print(arr1.ndim)
+print(arr1.ndim) 
 print(arr1.dtype)
